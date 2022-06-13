@@ -16,9 +16,10 @@ After cleaning the data and eliminating missing values, I did some general Explo
 As expected most of the over 4000 customers are from the UK ![Pie_Chart_Customers_Country](https://user-images.githubusercontent.com/70484577/173429952-0d29ac2f-827b-48f7-bbf2-22938156485d.JPG)
 
 ## RFM Analysis
+![RFM_Plot](https://user-images.githubusercontent.com/70484577/173433811-a0468e01-e467-4b0f-a4bb-1847d2c6dc2a.JPG)
+
 For this clustering problem I used K-means. The created clusters can be seen below
 ![Final_Clusters_Table](https://user-images.githubusercontent.com/70484577/173429156-3e5f258d-9258-4dff-9621-4e820db62f2f.JPG)
 
-A Distribution of the Customers Expenditures ![Boxplot_Customers](https://user-images.githubusercontent.com/70484577/173430847-f1b3e5e8-7ff3-4874-8e02-4c4e7e346d8d.JPG)
 
 
